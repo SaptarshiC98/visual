@@ -1,1 +1,1 @@
-# visual
+# This repository contains the codes and images used in the paper. If you wish to use any of these condes feel free to do so. Also you are obliged to cite this repository and the paper if you happen to use the codes.
